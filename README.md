@@ -1,7 +1,7 @@
 # ic-ruby-guide
 
 # Controller & View
-# Une seule variable @response affecté à la vue
+## Une seule variable @response affecté à la vue
 - *Règle* :
 Le controller retourne une seule variable à la vue (variable @response, de type hash).
 
@@ -21,3 +21,6 @@ Le controller retourne une seule variable à la vue (variable @response, de type
    abort: response[:abort_url] 
  }
 ```
+
+# Liens :
+https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/
