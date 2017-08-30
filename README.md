@@ -24,3 +24,5 @@ Le controller retourne une seule variable à la vue (variable @response, de type
 
 # Liens :
 https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/
+https://github.com/bbatsov/rails-style-guide#controllers
+http://pathfindersoftware.com/2008/10/elements-of-ruby-style/
