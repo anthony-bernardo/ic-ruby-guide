@@ -30,3 +30,7 @@ https://github.com/bbatsov/rails-style-guide#controllers
 https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/
 
 http://pathfindersoftware.com/2008/10/elements-of-ruby-style/
+
+Fonctionnal programming :
+
+https://vimeo.com/75181845
