@@ -23,6 +23,7 @@ Le controller retourne une seule variable à la vue (variable @response, de type
 ```
 
 # Liens :
-https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/
+https://github.com/gauthier-delacroix/ruby-style-guide/blob/master/README-frFR.md
 https://github.com/bbatsov/rails-style-guide#controllers
+https://www.sitepoint.com/10-ruby-on-rails-best-practices-3/
 http://pathfindersoftware.com/2008/10/elements-of-ruby-style/
